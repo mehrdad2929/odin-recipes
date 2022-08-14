@@ -1,0 +1,17 @@
+
+img {
+    width: 500px;
+    height: auto;
+}
+ul{
+    background-color: bisque;
+}
+ol{
+    background-color:bisque;
+}
+h4{
+    background-color: coral;
+}
+p:not(li p , a p){
+    background-color: aqua;
+}
