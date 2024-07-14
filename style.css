@@ -15,3 +15,6 @@ h4{
 p:not(li p , a p){
     background-color: aqua;
 }
+h1{
+    background-color: orange;
+}
